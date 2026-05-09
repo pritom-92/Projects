@@ -14,4 +14,4 @@ for chance in range(4, 0, -1):
 
 
 print("The number is", n)
-print("Score", chance)
+print("Score", chance-1)
